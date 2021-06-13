@@ -7,7 +7,7 @@
 
 ## EDUCATIONAL PROJECT - learning js
 
-#
+
 Site published at : https://gikeris.github.io/3-paskaita-nd/
 #
 1. Suprogramuokite skriptą, kurioje parašius tam tikrą sekundžių kiekį, rodo  24 valandų, minučių, sekundžių formatu.
