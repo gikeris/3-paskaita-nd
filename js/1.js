@@ -6,7 +6,7 @@ Papildomai:
 *Išveskite konvertuotą sekunžių informacija į div.
 
 */
-
+"use strict";
 
 function func1() {
     var sec, h, min, sec0;
@@ -14,6 +14,6 @@ function func1() {
     h = Math.floor(sec / 3600);
     min = Math.floor(sec % 3600 / 60);
     sec0 = sec % 3600 % 60;
-     document.getElementById('ats1').innerHTML = h + ' h '+ min + " min " + sec0 + " sec ";;
+     document.getElementById('ats1').innerHTML = h + ' h '+ min + " min " + sec0 + " sec ";
 
 }
