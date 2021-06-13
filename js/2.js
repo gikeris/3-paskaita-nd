@@ -1,4 +1,4 @@
-/*Suraskite triženklio skaičiaus visų skaitmenų:
+/* 2.Suraskite triženklio skaičiaus visų skaitmenų:
 
 *Sumą
 

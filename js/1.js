@@ -1,4 +1,4 @@
-/* Suprogramuokite skriptą, kurioje parašius tam tikrą sekundžių kiekį, rodo 24 valandų, minučių, sekundžių formatu.
+/* 1. Suprogramuokite skriptą, kurioje parašius tam tikrą sekundžių kiekį, rodo 24 valandų, minučių, sekundžių formatu.
 Papildomai:
 
 *Sekundčių kiekis paimamas iš input HTML žymės laukelio.
