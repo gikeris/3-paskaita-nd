@@ -19,12 +19,12 @@ Papildomai:
 function func2() {
     var sum, avg, sk, multip, nr1, nr2, nr3;
     sk= Number(document.getElementById("trio").value);
-    if (sk > 999 && sk < 100)
+    if (sk > 999 || sk < 100)
     {
         alert("wrong number");
+        return 0;
     }
-    else
-    {
+
         nr1 = Math.floor(sk / 100);
         nr2 = Math.floor(sk % 100 / 10);
         nr3 = Math.floor(sk % 100 % 10);
@@ -35,7 +35,7 @@ function func2() {
     
     
         document.getElementById('ats2').innerHTML = ' sum: ' + sum + ' average: ' + avg + ' multiplication : ' + multip;
-    }
+    
    
    
     
